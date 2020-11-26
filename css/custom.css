@@ -1,0 +1,106 @@
+/****** PLACE YOUR CUSTOM STYLES HERE ******/
+
+
+/************NAV-BAR***********/
+
+.nav-bar {
+    background-color: #eb2d21;
+}
+
+.nav-bar .menu a {
+    font-family: 'Helvetica'sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    color: white;
+}
+
+
+/*******main container*****/
+
+.container .post {
+    color: #eb2d21;
+}
+
+
+/******aboutlove******/
+
+.image-square {
+    background-color: #cdafa5;
+}
+
+.image-square .content .ab-love {
+    font-family: 'Helvetica'sans-serif;
+    font-weight: bold;
+    color: #eb2a24;
+   
+}
+
+.content .mb0 {
+    font-family: 'Helvetica Neue' serif;
+    font-weight: bold;
+    color: white;
+    margin-right: 50px;
+     font-size: large;
+}
+
+
+/*******characters******/
+
+.bg-dark .title h5 {
+    font-family: 'Helvetica'sans-serif;
+    font-weight: bold;
+    color: #ec2e22;
+    font-size: 70px;
+}
+
+.container .txt-mb0 {
+    font-family: 'Helvetica' sans-serif;
+    color: #ec2e22;
+    font-size: 19px;
+    text-align: center;
+    font-weight:bold;
+}
+
+.container .h1 {
+    width: 250px;
+    height: 150px;
+}
+
+.footer-2 h5 {
+    font-family: 'Helvetica'sans-serif;
+    font-weight: normal;
+}
+
+.background-image-holder {
+    background-position: 50% 20% !important;
+}
+
+
+/**********SOUNDTRACK*************/
+
+.image-edge {
+    background-color: #5b5152;
+}
+
+.spotify {
+    width: 350px;
+    height: 300px;
+    margin-top: 20px;
+}
+
+.image-edge .uppercase {
+    font-size: 25px;
+}
+
+.image-edge .lead {
+    font-size: 25px;
+    margin-left: 25px;
+}
+
+.image-edge .btn-lg {
+    margin-left: 100px;
+}
+/*************video**********/
+.bg-secondary{
+    background-color: #cdafa5;
+}
